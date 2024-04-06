@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+
+.app-container{
+    text-align: center;
+    padding: 6%;
+    margin: 3px;
+    background-image: url(./Main-Hero-Background.webp);
+    background-position: center;
+}
+
+.inner{
+    background-color: #ffffff;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+body text{
+    padding: 10px;
+}
