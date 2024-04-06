@@ -40,7 +40,7 @@ function Footer() {
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='footer-logo'>
-            <Link to='/' className='social-logo'>
+            <Link to='/ailearntsite' className='social-logo'>
               AiLearnt
               <img src="/images/ailearnt-logo.png" alt="Logo" className="navbar-logo-image" />
             </Link>

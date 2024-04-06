@@ -1,5 +1,5 @@
 {
-  "homepage": "https://chokitu.github.io/ailearntsite/"
+  "homepage": "https://chokitu.github.io/ailearntsite/",
   "name": "client",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
@@ -17,11 +17,12 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^3.1.0" 
+
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

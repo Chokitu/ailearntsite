@@ -23,7 +23,7 @@ function HeroSection() {
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
-          to="/"
+          to="/ailearntsite"
         >
           Home
         </Button>
