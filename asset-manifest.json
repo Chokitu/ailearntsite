@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ailearntsite/static/css/main.39e1d16c.css",
+    "main.js": "/ailearntsite/static/js/main.bf0078bf.js",
+    "static/media/Main-Hero-Background.webp": "/ailearntsite/static/media/Main-Hero-Background.16cea784b3b1af3706a4.webp",
+    "index.html": "/ailearntsite/index.html",
+    "main.39e1d16c.css.map": "/ailearntsite/static/css/main.39e1d16c.css.map",
+    "main.bf0078bf.js.map": "/ailearntsite/static/js/main.bf0078bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e1d16c.css",
+    "static/js/main.bf0078bf.js"
+  ]
+}
